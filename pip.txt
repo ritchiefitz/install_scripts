@@ -1,0 +1,7 @@
+beautifulsoup4
+pip
+setuptools
+wsgiref
+xlrd
+xlutils
+xlwt
