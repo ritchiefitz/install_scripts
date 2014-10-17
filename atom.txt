@@ -1,0 +1,14 @@
+docblockr
+linter
+linter-javac
+linter-pylint
+linter-jshint
+linter-csslint
+linter-ruby
+linter-shellcheck
+linter-cpplint
+linter-tidy
+color-picker
+emmet-atom
+autocomplete
+autocomplete-plus
